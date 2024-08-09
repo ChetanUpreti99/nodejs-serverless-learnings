@@ -58,11 +58,20 @@ import middy from '@middy/core'
 
 
 // testing building a simple handler
-export const Signup = middy(async function (_event: any, _context: any) {
+/* export const Signup = middy(async function (_event: any, _context: any) {
     return {
         statusCode: 200,
         body: JSON.stringify({
             message: 'Hello world'
         })
     }
-})
+}) */
+
+/* export const Signup = async (_event: any, _context: any) => {
+    return {
+        statusCode: 200,
+        body: JSON.stringify({
+            message: 'Hello world'
+        })
+    }
+} */
