@@ -1,3 +1,0 @@
-// import "reflect-metadata";
-export * from "./handlers/userHandler";
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaGFuZGxlci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uL2FwcC9oYW5kbGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLDZCQUE2QjtBQUM3QixjQUFjLHdCQUF3QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLy8gaW1wb3J0IFwicmVmbGVjdC1tZXRhZGF0YVwiO1xuZXhwb3J0ICogZnJvbSBcIi4vaGFuZGxlcnMvdXNlckhhbmRsZXJcIjtcbiJdfQ==

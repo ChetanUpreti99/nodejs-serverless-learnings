@@ -1,7 +1,0 @@
-export class UserRepository {
-    constructor() { }
-    async createAccount() {
-        return {};
-    }
-}
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidXNlclJlcG9zaXRvcnkuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9hcHAvcmVwb3NpdG9yeS91c2VyUmVwb3NpdG9yeS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxNQUFNLE9BQU8sY0FBYztJQUN2QixnQkFBZ0IsQ0FBQztJQUNqQixLQUFLLENBQUMsYUFBYTtRQUNmLE9BQU8sRUFBRSxDQUFDO0lBQ2QsQ0FBQztDQUNKIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNsYXNzIFVzZXJSZXBvc2l0b3J5IHtcbiAgICBjb25zdHJ1Y3RvcigpIHsgfVxuICAgIGFzeW5jIGNyZWF0ZUFjY291bnQoKSB7XG4gICAgICAgIHJldHVybiB7fTtcbiAgICB9XG59XG5cblxuIl19
