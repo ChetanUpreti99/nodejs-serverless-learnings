@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "incremental": true,
     "target": "es2020",
     "module": "es2020",
@@ -17,11 +18,13 @@
     "rootDir": ".",
     "outDir": "lib",
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "allowSyntheticDefaultImports": true,
   },
   "include": [
     "app/**/*",
-    "tests/**/*"
+    "tests/**/*",
+    "*.ts"
   ],
   "exclude": [
     "node_modules"

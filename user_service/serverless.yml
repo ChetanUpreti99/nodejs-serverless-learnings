@@ -9,6 +9,7 @@ provider:
   versionFunctions: false
   stage: "dev"
   region: "ap-south-1"
+  # timeout: 90
   httpApi:
     cors: true
 
